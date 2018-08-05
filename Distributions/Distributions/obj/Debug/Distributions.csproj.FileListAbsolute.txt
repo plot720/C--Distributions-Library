@@ -1,0 +1,5 @@
+E:\My Documents\Projects\Libraries\Distributions\Distributions\Distributions\bin\Debug\Distributions.dll
+E:\My Documents\Projects\Libraries\Distributions\Distributions\Distributions\bin\Debug\Distributions.pdb
+E:\My Documents\Projects\Libraries\Distributions\Distributions\Distributions\obj\Debug\Distributions.csprojResolveAssemblyReference.cache
+E:\My Documents\Projects\Libraries\Distributions\Distributions\Distributions\obj\Debug\Distributions.dll
+E:\My Documents\Projects\Libraries\Distributions\Distributions\Distributions\obj\Debug\Distributions.pdb
